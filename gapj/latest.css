@@ -1,0 +1,45 @@
+div#wrab {
+    margin: 0 auto; 
+    width: 1080px;
+}
+div#header {
+    margin: 0;
+
+    position: relative;
+    z-index: 2000;
+    background-color: #fff;
+            }
+
+div#youtube {
+    text-align: right;
+        
+            }
+
+div#lo {
+    margin: 0 auto; 
+    width: 880px;
+}
+
+div#rogo {
+    display: inline-block;
+    width:200px; 
+    height:179px;
+    vertical-align: middle;
+    
+}
+
+div#titlename {
+    /*background-color: aqua; */
+    /*display: inline-block; */
+    width:566px; 
+    height:179px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+div#titlename h1{
+    vertical-align: middle;
+}
+
+
+
