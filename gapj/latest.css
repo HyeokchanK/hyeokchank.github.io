@@ -41,5 +41,31 @@ div#titlename h1{
     vertical-align: middle;
 }
 
+ul {
+    
+    color:black;
+    list-style: none;
+    padding: 0px;
+   /* 
+    text-align: center;
+    width: 200px;
+    margin: auto;
+   */
+}
+a {
+     
+    color: black; 
+    text-decoration: none;
+    border-width: 2px;
+    border-color:red ;
+    border-style:  solid;
+}
 
+h1 {
+    font-size: 45px ;
+}
+
+.saw {
+    
+}
 

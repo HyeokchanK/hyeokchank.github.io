@@ -1,0 +1,214 @@
+div {
+    /*border:3px solid red;*/
+}
+
+div#page {
+    width: 1080px;
+    
+    margin: 0px auto;
+}
+
+div#youtube {
+    width: 1000px;
+    height: 35px;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: 700px 300px;
+    text-align: center;
+    line-height: 35px;
+}
+
+div#youtube .youlink{
+  color: blue;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 1000;
+  height: 35px;
+                 
+}
+
+div#youtube .youlink:hover{
+    color: red;
+                   
+  }
+
+div#youtube a:hover{
+    color: blue; 
+    
+}
+div#title {
+    text-align: center;
+    height: 152px;
+}
+
+div#title h1{
+    display: none;
+}
+
+div#title img {
+    margin: 0;
+    /*display: inline;*/
+    /*border:3px solid blue;*/
+    
+}
+
+
+#navi {
+            margin: 0 auto;
+            padding: 0px;
+            width: 1080px;
+            height: 35px;
+            border-bottom:3px solid blue;
+            
+}
+
+#navi ul{
+            
+            list-style: none;
+            margin: 0 auto;
+            padding: 0px;
+            height: 35px;
+            width: 424px;
+            margin-top: 3px;
+}
+
+#navi ul li{
+                 border:3px solid blue;
+                 border-bottom: none;
+                 border-right: none;
+                 float: left;
+                 
+                 margin: 0px;
+                 padding: 0px;
+                 height: 35px;
+                 width: 100px;
+                 text-align: center;
+                 line-height: 35px;
+                
+}
+
+#navi ul li a{ 
+    
+    font-weight: 1000;
+    display: block;
+    color: blue;
+    text-decoration: none;
+    height: 35px;
+    width: 100px;
+    
+   
+}
+
+#navi ul li a:hover{ 
+    
+    
+    color: red;
+    text-decoration: none;
+}
+
+#tete {
+    width: 1080px;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*div#navi{
+    width: 1000px;
+    height: 33px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+div#navi a{
+    
+    
+    border:3px solid red;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    font-size: 20px;
+    font-weight: 1000;
+    padding-right: 10px;
+    color: black; 
+    text-decoration: none;
+    height: 33px;
+    padding: 0px;
+    margin: 0px;
+    
+}
+div#navi ul{
+    display: block;
+}
+
+div#navi ul li{
+    border:3px solid red;
+    list-style: none;
+    float: left;
+    line-height: 30px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+}
+
+div#navi li{
+    display: inline-block;
+    height: 33px;
+}
+
+
+#topMenu {  
+    height: 30px; 
+    width: 850px; 
+ } 
+ 
+#topMenu ul li {  
+     list-style: none; 
+     color: white; 
+     background-color: #2d2d2d; 
+     float: left; 
+     line-height: 30px; 
+     vertical-align: middle; 
+     text-align: center; 
+} 
+    
+#topMenu .menuLink { 
+        text-decoration:none; 
+        color: white; 
+        display: block;
+        width: 150px; 
+        font-size: 12px; 
+        font-weight: bold; 
+        font-family: "Trebuchet MS", Dotum, Arial; 
+}
+
+#topMenu .menuLink:hover { 
+            color: red; 
+            background-color: #4d4d4d; 
+} 
+*/
